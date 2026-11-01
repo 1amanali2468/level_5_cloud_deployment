@@ -1,0 +1,5 @@
+services:
+  level_5_cloud_deployment:
+    build: ./
+    ports:
+      - 5000:5000
